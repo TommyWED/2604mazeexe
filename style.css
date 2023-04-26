@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    padding:0;
+}
+
 .mazebg{
     background-image: url(Maze/mazebackground.jpeg);
     background-size:100% 100%;
